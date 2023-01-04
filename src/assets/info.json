@@ -1,0 +1,179 @@
+{
+    "name": "Edison Muñoz",
+    "email": "javicho16_mu@hotmail.com",
+    "phone": "+593 980594828",
+    "location": "Quito - Ecuador",
+    "pickture": "https://peefcorporation.com/img/desktop1.jpg",
+    "title": "Developer Full Stack",
+    "description": "Ser una persona disciplinada, honrada, trabajadora, puntual, con capacidad de liderazgo siendo siempre imparcial en todas las situaciones de conflicto, a la vez de tener una relación interpersonal agradable, con iniciativa y deseos de superación.",
+    "contac": 
+    [
+        {
+            "icon":"https://peefcorporation.com/icon/whatsapp.svg",
+            "url":"https://api.whatsapp.com/send/?phone=593980594828&text=Hola+me+interesa+contactarme+contigo&type=phone_number&app_absent=0"
+        },
+        {
+            "icon":"https://peefcorporation.com/icon/linkedin.svg",
+            "url":"https://www.linkedin.com/in/edison-mu%C3%B1oz-954095176/"
+        },
+        {
+            "icon":"https://peefcorporation.com/icon/email.svg",
+            "url":"mailto:javicho16_mu@hotmail.com"
+        },
+        {
+            "icon":"https://peefcorporation.com/icon/download.svg",
+            "url":""
+        }
+    ],
+    "education":
+    [
+        {
+            "title":"Full-Stack Developer student",
+            "school":"Academlo",
+            "pick":"https://peefcorporation.com/icon/logo_academlo.png",
+            "year":"2022 - (Currently)",
+            "icon":"fas fa-laptop-code"
+        },
+        {
+            "title":"Systems analysis technologist",
+            "school":"ITECSUR",
+            "pick":"https://peefcorporation.com/icon/itec.png",
+            "year":"2016 - 2021",
+            "icon":"fas fa-graduation-cap"
+        },
+        {
+            "title":"Bachelor of computer applications",
+            "school":"Rafael Larrea",
+            "pick":"https://peefcorporation.com/icon/rafael_l.png",
+            "year":"2006 - 2012",
+            "icon":"fas fa-graduation-cap"
+
+        }
+
+    ],
+    "experience":
+    [
+        {
+            "title":"Platafonm Specialist",
+            "place":"Liceo Campoverde",
+            "pick":"https://peefcorporation.com/icon/lcv.png",
+            "year":"2021 - (Currently)",
+            "icon":"fas fa-briefcase"
+
+        },
+        {
+            "title":"Network and application Support IT",
+            "place":"Rote Global Cia. Ltda",
+            "pick":"https://peefcorporation.com/icon/rote.png",
+            "year":"2018 - 2021",
+            "icon":"fas fa-briefcase"
+
+        },
+        {
+            "title":"Systems Assistant",
+            "place":"JW Marriot Quito",
+            "pick":"https://peefcorporation.com/icon/marriott.png",
+            "year":"2016 - 2017",
+            "icon":"fas fa-briefcase"
+
+        }
+
+    ],
+    "skills":
+    [
+        {
+            "name":"React JS",
+            "pick":"https://peefcorporation.com/icon/react.png"
+        },
+        {
+            "name":"Redux",
+            "pick":"https://peefcorporation.com/icon/redux.png"
+        },
+        {
+            "name":"React Router",
+            "pick":"https://peefcorporation.com/icon/react_router.png"
+        },
+        {
+            "name":"JavaScript",
+            "pick":"https://peefcorporation.com/icon/js.png"
+        },
+        {
+            "name":"HTML 5",
+            "pick":"https://peefcorporation.com/icon/html.png"
+        },
+        {
+            "name":"CSS3",
+            "pick":"https://peefcorporation.com/icon/css.png"
+        },
+        {
+            "name":"Git",
+            "pick":"https://peefcorporation.com/icon/git.png"
+        },
+        {
+            "name":"GitHub",
+            "pick":"https://peefcorporation.com/icon/GitHub.png"
+        },
+        {
+            "name":"MySql",
+            "pick":"https://peefcorporation.com/icon/mysql.png"
+        }
+        
+    ],
+    "proyects":
+    [
+        {
+            "name": "Mi Colación ",
+            "url":"https://www.micolacion.com",
+            "technologist":"HTML | CSS | PHP | MYSQL",
+            "pick":"https://peefcorporation.com/img/mi_colacion.png"
+        },
+        {
+            "name": "PeefCorporation",
+            "url":"https://www.peefcorporation.com/",
+            "technologist":"HTML | CSS | PHP | JavaScript",
+            "pick":"https://peefcorporation.com/img/peef.png"
+        },
+        {
+            "name": "Gestión Almafront ",
+            "url":"https://gestion.almafront.com.ec/",
+            "technologist":"HTML | CSS | PHP | JavaScript | MYSQL",
+            "pick":"https://peefcorporation.com/img/almafront.png"
+        },
+        {
+            "name": "E-commerce ",
+            "url":"https://e-comerce-emunoz.netlify.app/",
+            "technologist":"HTML | CSS | REACT | REDUX | REAC-ROUTER | APIS | JavaScript |",
+            "pick":"https://peefcorporation.com/img/ecommerce.png"
+        },
+        {
+            "name": "Pokedex",
+            "url":"https://pokedex-edison-munoz.netlify.app/",
+            "technologist":"HTML | CSS | REACT | REDUX | REAC-ROUTER | APIS | JavaScript |",
+            "pick":"https://peefcorporation.com/img/pokedex.png"
+        },   
+        {
+            "name": "Rick and Morty ",
+            "url":"https://rickandmorty-edison-munoz.netlify.app",
+            "technologist":"HTML | CSS | REACT | APIS | JavaScript |",
+            "pick":"https://peefcorporation.com/img/rick_morty.png"
+        },
+        {
+            "name": "User Crud ",
+            "url":"https://crud-users-emunoz.netlify.app",
+            "technologist":"HTML | CSS | REACT | APIS | JavaScript |",
+            "pick":"https://peefcorporation.com/img/crud.png"
+        },
+        {
+            "name": "Openweather",
+            "url":"https://openweather-edison-munoz.netlify.app",
+            "technologist":"HTML | CSS | REACT | APIS | JavaScript |",
+            "pick":"https://peefcorporation.com/img/openweather.png"
+        },
+        {
+            "name": "Quotes",
+            "url":"https://quotes-edison-munoz.netlify.app",
+            "technologist":"HTML | CSS | REACT | APIS | JavaScript |",
+            "pick":"https://peefcorporation.com/img/quotes.png"
+        }
+    ]
+}
